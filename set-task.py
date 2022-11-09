@@ -35,3 +35,4 @@ print(my_set)  # {'A', 'B'}
 # my_set.remove("C") # Error Will Appear
 my_set.discard("C")  # No Error Will Appear
 
+# Task 3
